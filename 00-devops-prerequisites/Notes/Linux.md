@@ -1170,7 +1170,7 @@ sudo systemctl enable app
 
 
 
- [DevOps Pre-Requisites PDF](./media/DevOps-Pre-Requisites-v2-1.pdf) look for this in the media folder
+ [DevOps Pre-Requisites PDF](./media/DevOps-Pre-Requisites-v2-1.pdf) look for this in the media folder if you cannot see download raw and open from your computer
 
 
 
