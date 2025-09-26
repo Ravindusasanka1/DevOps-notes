@@ -1,0 +1,1 @@
+Notes for this course,check this repository-[Linux Notes](https://github.com/Ravindusasanka1/linux-basics-course)
