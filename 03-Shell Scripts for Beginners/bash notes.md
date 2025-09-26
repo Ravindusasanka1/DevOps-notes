@@ -1,0 +1,1 @@
+For notes in this course please check this-[Bash  Notes](https://github.com/Ravindusasanka1/shell-scripting-for-beginners-course)
