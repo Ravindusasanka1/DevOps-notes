@@ -1,1 +1,1 @@
-Notes for this course,check this repository-[Linux Notes](https://github.com/Ravindusasanka1/linux-basics-course)
+Notes for this course,check this repository-[Linux Notes](https://github.com/Ravindusasanka1/linux-basics-course) ,Kodekloud notes-[Linux Notes](https://notes.kodekloud.com/docs/Shell-Scripts-for-Beginners/Course-Introduction/Course-Introduction)
